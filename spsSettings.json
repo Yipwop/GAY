@@ -3,9 +3,9 @@
   "difficulty": "NORMAL",
   "cheats": false,
   "invited": [
-    "2665e0af-b247-488e-8387-caa05a089a64",
-    "868a5db9-1b8a-4397-89cf-bb407acd1275"
+    "dfed2227-bd54-44b3-a2be-dde78fd9d5df",
+    "3fa0a0f6-fd39-484a-b027-ac23e62d9171"
   ],
-  "shareResourcePack": false,
+  "shareResourcePack": true,
   "oppedPlayers": []
 }
