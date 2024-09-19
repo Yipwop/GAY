@@ -4,8 +4,9 @@
   "cheats": false,
   "invited": [
     "dfed2227-bd54-44b3-a2be-dde78fd9d5df",
+    "2665e0af-b247-488e-8387-caa05a089a64",
     "3fa0a0f6-fd39-484a-b027-ac23e62d9171"
   ],
-  "shareResourcePack": true,
+  "shareResourcePack": false,
   "oppedPlayers": []
 }
